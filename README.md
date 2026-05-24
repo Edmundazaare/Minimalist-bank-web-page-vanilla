@@ -26,3 +26,4 @@ Using advanced DOM manipulation in JavaScript to build a fully interactive banki
 
 
 ## 📬 Contact
+Let's connect: https://wa.me/233551273834
