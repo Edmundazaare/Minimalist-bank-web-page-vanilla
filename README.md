@@ -22,8 +22,6 @@ Using advanced DOM manipulation in JavaScript to build a fully interactive banki
 * **Event Delegation:** Implemented efficient event handling during the bubbling and capturing in the DOM.
 * **Using the  intersection observationAPI:** I implememted this in parts where the user has to scroll to a section.
 
-##  Live Demo
-
 
 ## 📬 Contact
 Let's connect: https://wa.me/233551273834
